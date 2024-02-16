@@ -1,0 +1,48 @@
+.cabecalho {
+    background-color: red;
+    height: 192px;
+    width: 1440px;
+     
+}
+
+.pesquisa {
+    background-color: grey;
+    display: flex;
+    height: 6rem;
+}
+
+.apresent_inic {
+    background-color: grey;
+}
+
+.colecao_1 {
+    background-color: grey;
+}
+
+.colecao_2 {
+    background-color: grey;
+}
+
+.produto_alta {
+    background-color: grey;
+}
+
+.apresent_final {
+    background-color: grey;
+}
+
+.links {
+    background-color: green;
+    display: flex;
+    height: 6rem;
+}
+
+.lista_links {
+    display: flex;
+}
+
+footer {
+    display: flex;
+    background-color: grey;
+}
+
